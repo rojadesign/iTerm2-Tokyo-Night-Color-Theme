@@ -22,7 +22,7 @@ Click on **`Color Presets`**
 
 Click on **`Import`**
 
-Select the **`tokyo-night.itermcolors`** file which you can view and download [here](https://github.com/rojadesign/iTerm2-Tokyo-Night-Color-Theme-by-rojadesign/blob/main/tokyo%20night%20by%20rojadesign.itermcolors).
+Select the **`tokyo-night.itermcolors`** file which you can view and download [here](https://github.com/rojadesign/iTerm2-Tokyo-Night-Color-Theme/blob/main/tokyo-night.itermcolors).
 
 *Alternatively*, you can manually copy the color values from the [table](#colors) below into your **iTerm 2** color settings.
 
@@ -46,7 +46,7 @@ Select the **`tokyo-night.itermcolors`** file which you can view and download [h
 <br/>
 
 ## Roadmap
-- [x] [Tokyo Night](https://github.com/rojadesign/iTerm2-Tokyo-Night-Color-Theme-by-rojadesign/blob/main/tokyo%20night%20by%20rojadesign.itermcolors)
+- [x] [Tokyo Night](https://github.com/rojadesign/iTerm2-Tokyo-Night-Color-Theme/blob/main/tokyo-night.itermcolors)
 - [ ] Tokyo Night v2
 - [ ] Tokyo Night Storm
 - [ ] Tokyo Night Storm v2
