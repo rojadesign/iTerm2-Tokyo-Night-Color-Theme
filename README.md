@@ -24,7 +24,7 @@ Launch **iTerm2**. If not installed, get the latest version from the [official i
 
 • Select the **`tokyo-night.itermcolors`** file which you can view and download [here](https://github.com/rojadesign/iTerm2-Tokyo-Night-Color-Theme/blob/main/tokyo-night.itermcolors) •
 
-###### *Alternatively*, you can manually copy the color values from the [table](#colors) below into your **iTerm 2** color settings.
+###### *Alternatively*, you can manually copy the color values from the [table](#colors) below into your **iTerm2** color settings.
 
 <br/>
 
