@@ -4,7 +4,7 @@
 
 # iTerm2 – Tokyo Night Color Theme
 
-This is a [iTerm2](https://iterm2.com/) color theme inspired by Tokyo Night.
+This is a [iTerm2](https://iterm2.com/) color theme inspired by [Tokyo Night](https://github.com/tokyo-night/tokyo-night-vscode-theme) and [Catppuccin](https://github.com/catppuccin/catppuccin).
 
 <br/>
 
