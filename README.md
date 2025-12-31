@@ -10,19 +10,9 @@ This is a [iTerm2](https://iterm2.com/) color theme inspired by [Tokyo Night](ht
 
 ## How To Use
 
-Launch **iTerm2**. If not installed, get the latest version from the [official iTerm2 website](https://iterm2.com/).
+• Get the **`tokyo-night.itermcolors`** file which you can view and download [here](https://github.com/rojadesign/iTerm2-Tokyo-Night-Color-Theme/blob/main/tokyo-night.itermcolors).
 
-• Open **`Preferences`** •
-
-• Select **`Profiles`** •
-
-• Navigate to **`Colors`** tab •
-
-• Click on **`Color Presets`** •
-
-• Click on **`Import`** •
-
-• Select the **`tokyo-night.itermcolors`** file which you can view and download [here](https://github.com/rojadesign/iTerm2-Tokyo-Night-Color-Theme/blob/main/tokyo-night.itermcolors) •
+In iTerm2, select **`Settings`** `>`**`Profiles`** `>` **`Colors`** `>` **`Color Presets`** `>` **`Import`** `>` **`tokyo-night.itermcolors`**
 
 ###### *Alternatively*, you can manually copy the color values from the [table](#colors) below into your **iTerm2** color settings.
 
