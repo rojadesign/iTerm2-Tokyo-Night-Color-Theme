@@ -52,3 +52,13 @@ Get the file you can view and download [here](https://github.com/rojadesign/iTer
 - [ ] Tokyo Night Storm v2
 
 </div>
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=rojadesign%2FiTerm2-Tokyo-Night-Color-Theme&type=date&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=rojadesign/iTerm2-Tokyo-Night-Color-Theme&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=rojadesign/iTerm2-Tokyo-Night-Color-Theme&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=rojadesign/iTerm2-Tokyo-Night-Color-Theme&type=date&legend=bottom-right" />
+ </picture>
+</a>
